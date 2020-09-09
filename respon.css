@@ -71,7 +71,7 @@
 		width:100%;
 	}
 	.wrapper-lesson{
-		width: 50%;
+		width: 70%;
 		margin-bottom:50px
 	}	
 	.circles .wrapper{
@@ -95,14 +95,19 @@
 		font-size: 10px;
 	}
 	footer {
-		height: 100%;
+		height: 180px;				
+	}
+	footer .container{
+		display: flex;
+		flex-direction:column;
 	}
 	.footer-logo{
-		margin-top:7px;
-		margin-left: 10px;
+		margin:auto;
+		margin-bottom: 30px;
 	}
 	.footer-list .list{
 		margin : 15px;
+		margin:auto;
 	}
 	.footer-list h4{
 		font-size: 13px;
