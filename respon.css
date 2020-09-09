@@ -30,6 +30,9 @@
 		width: 30%;
 		margin: 0px 5%;
 	}
+	footer {
+		height: 100%;
+	}
 	.footer-logo{
 		font-size:16px;
 	}
@@ -90,6 +93,9 @@
 	}
 	.top-content p{
 		font-size: 10px;
+	}
+	footer {
+		height: 100%;
 	}
 	.footer-logo{
 		margin-top:7px;
